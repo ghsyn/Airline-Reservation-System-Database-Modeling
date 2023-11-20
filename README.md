@@ -14,7 +14,7 @@
 
 ## 아키텍처 설계
 
-![항공권 예약 시스템 아키텍처](/images/항공권_예약_시스템_아키텍처.png)
+![항공권 예약 시스템 아키텍처](blob:https://github.com/ghsyn/Airline-Reservation-System-Database-Modeling/main/images/d34fffcd-45ec-4878-a531-20a30ad49a4a)
 
 ## ER-Diagram
 

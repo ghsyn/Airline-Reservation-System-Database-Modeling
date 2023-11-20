@@ -18,4 +18,4 @@
 
 ## ER-Diagram
 
-![항공권 예약 시스템 전체ERD](/images/항공권_예약_시스템_전체ERD.png)
+![항공권 예약 시스템 전체ERD](blob:https://github.com/ghsyn/Airline-Reservation-System-Database-Modeling/main/images/5e2da997-d71f-4c68-82e4-b5606dfc1c96)
